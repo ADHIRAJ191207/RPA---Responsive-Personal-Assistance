@@ -227,7 +227,7 @@ def send_message():
 
 # Window 
 root = tk.Tk()
-root.title("NeoBuddy – Responsive Personal Assistant")
+root.title("RPA – Responsive Personal Assistant")
 root.geometry("550x500")
 root.resizable(False, False)
 
